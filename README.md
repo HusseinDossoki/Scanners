@@ -6,7 +6,7 @@
 
 ## Overview
 
-They are my open source python scrypts that make you able to controle your machine or your network.
+They are my open source python scripts that make you able to controle your machine or your network.
 
 ## Installation
 
